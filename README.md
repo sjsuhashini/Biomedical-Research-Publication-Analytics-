@@ -1,7 +1,7 @@
 #NIH Biomedical-Research-Publication-Analytics
 
 ##Overview
-This project analyzes biomedical research publication metadata to identify trends in global research output, journal productivity, and emerging scientific topics using Python and Pandas.
+This project analyzes biomedical research publication data to identify trends in global research output, journal productivity, and emerging scientific topics using Python and Pandas.
 The goal is to demonstrate practical data cleaning, transformation, exploratory data analysis, and visualization skills relevant to healthcare, clinical research, and NIH data systems.
 
 ##Data source
